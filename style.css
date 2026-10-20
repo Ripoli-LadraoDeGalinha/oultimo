@@ -36,8 +36,42 @@ img{
 
 h2{
     width: 400px;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
 }
 
 p{
     width: 400px;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+#titu {
+    color: rgb(187, 76, 178);
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15px;
+    background-color: rgb(59, 0, 126);
+    border: solid rgb(182, 94, 253);
+    border-radius: 15px;
+    box-shadow: 0px 4px 10px rgb(0, 0, 0);
+    box-sizing: border-box;
+    padding: 16px;
+}
+
+#but {
+    background-color: rgb(20, 70, 120);
+    border-color: rgb(20, 170, 220);
+    padding: 15px;
+    
 }
