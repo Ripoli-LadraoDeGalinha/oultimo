@@ -97,7 +97,7 @@ p{
 #foot {
     background-color: white;
     width: 100%;
-    margin: 0;
+    margin-top: auto;  
     padding: 0;
 
 }
